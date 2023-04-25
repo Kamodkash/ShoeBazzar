@@ -1,0 +1,6 @@
+{
+    "editor.autoClosingBrackets": "always",
+    "editor.accessibilityPageSize": 12,
+    "workbench.colorTheme": "Abyss",
+    "liveServer.settings.port": 5501
+}
